@@ -1,7 +1,16 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
 
+<!--profile visit count-->
+
+<div align="center">
+
+
+[![](https://visitcount.itsvg.in/api?id=AbdulSamad&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
+</div>
 
 
 <!--h1 without bottom border-->
@@ -13,13 +22,8 @@
     
 </div>
 
-<!--profile visit count-->
 
-<div>
-    [![](https://visitcount.itsvg.in/api?id=AbdulSamad&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-</div>
 
-<!--About Me-->
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
@@ -52,7 +56,7 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Science And Artificial Intelligence
 
 ![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
 ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
@@ -98,15 +102,15 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=AbdulSamad&theme=dark&show_icons=true&count_private=true" />
+<!-- ![AbSamDev's Stats](https://github-readme-stats.vercel.app/api?username=AbSamDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=AbSamDev&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSamad&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbSamDev&theme=highcontrast&hide_border=true" /> 
 </td>
 
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbdulSamad&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbSamDev&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/>
 
   </td>
 </tr>
@@ -117,15 +121,13 @@
 
 <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AbdulSamad&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AbSamDev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
-
-<br>
 
 
 
