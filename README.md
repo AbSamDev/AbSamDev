@@ -8,9 +8,12 @@
 
 <div id="user-content-toc">
     <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Abdul Samad</h1>
-    [![](https://visitcount.itsvg.in/api?id=AbdulSamad&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)</summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Abdul Samad</h1></summary>
     </ul>
+    <div>
+    [![](https://visitcount.itsvg.in/api?id=AbdulSamad&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+    </div>
+
 
 </div>
 
