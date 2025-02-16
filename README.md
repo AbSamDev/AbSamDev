@@ -30,8 +30,8 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `CS Graduate` from  [University of Engineering and Technology, Lahore, Pakistan](https://www.uet.edu.pk/)
-- :trophy: `2018-2022` HEC Scholarship Holder **&** `2018` STEP by PGC FUNGAT Winner
-- :technologist: **Currently working as** `IT Support Engineer` **at** `Zawiar Traders`
+- :trophy: `2020-2024` HEC Scholarship Holder **&** `2020` STEP by PGC FUNGAT Winner
+- :technologist: **Currently working as** `Data Analyst Intern` **at** `Excelerate`
 - :boom: You can visit [MY PORTFOLIO WEBSITE]() to know me more.
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=AbdulSamad&amp;color=EA4335&amp;style=flat-square)](mailto:asamadskt@gmail.com)
 - :nerd_face: Always believe `"The best is yet to come"`
